@@ -1,0 +1,5 @@
+COLLECTION_NAME = "documents"
+
+VECTOR_SIZE = 384
+
+MODEL_NAME = "all-MiniLM-L6-v2"

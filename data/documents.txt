@@ -1,0 +1,51 @@
+Python is a programming language.
+FastAPI is a modern Python web framework.
+Docker is used to create containers.
+Redis is an in-memory database.
+Qdrant is a vector database for similarity search.
+PostgreSQL is a relational database.
+NumPy is used for numerical computing.
+Pandas is used for data analysis.
+Machine learning uses data to train models.
+Artificial intelligence enables intelligent systems.
+Git is a version control system.
+GitHub hosts software repositories.
+Linux is a popular operating system.
+Ubuntu is a Linux distribution.
+SQL is used to query databases.
+MongoDB is a NoSQL database.
+Flask is a lightweight Python framework.
+Django is a full-stack Python framework.
+REST APIs enable communication between applications.
+JSON is a lightweight data format.
+HTTP is the protocol used on the web.
+HTTPS provides secure web communication.
+Embeddings convert text into vectors.
+Cosine similarity measures vector similarity.
+Euclidean distance measures straight-line distance.
+HNSW is an approximate nearest neighbor algorithm.
+ANN stands for Approximate Nearest Neighbor.
+Vector databases store embedding vectors.
+Metadata provides additional information about data.
+Payload stores metadata in Qdrant.
+Collections organize vectors in Qdrant.
+Segments divide data inside a collection.
+Snapshots create backups of collections.
+Replication creates multiple copies of data.
+Sharding splits data across multiple servers.
+Caching improves application performance.
+JWT is used for user authentication.
+OAuth enables secure authorization.
+Pydantic validates Python data models.
+SQLAlchemy is a Python ORM.
+Docker Compose manages multi-container applications.
+Kubernetes orchestrates containerized applications.
+Transformers are powerful deep learning models.
+Large language models understand natural language.
+RAG combines retrieval with text generation.
+OpenAI provides AI models and APIs.
+Sentence Transformers generate text embeddings.
+PyTorch is a deep learning framework.
+TensorFlow is used for machine learning.
+Data preprocessing improves model performance.
+cow is a animal and cow gives milk
